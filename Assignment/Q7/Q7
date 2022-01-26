@@ -1,0 +1,3 @@
+7. What is the scheduling algorithm used by your RTOS?
+
+ANS : Fixed Priority Preemptive Scheduling with time slicing
